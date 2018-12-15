@@ -17,8 +17,8 @@ LiquidCrystal_I2C lcd(0x3F, 16, 2);
 coapClient coap;
 
 //WiFi connection info
-const char* ssid = "TP-LINK_8398";
-const char* password = "55398763";
+const char* ssid = "ΧΧΧΧΧ";
+const char* password = "ΧΧΧΧΧΧ";
 
 //ip address and default port of coap server in which your interested in
 IPAddress ip(192,168,0,106);//take ETH Zurich or coap.me server to run and check client 
