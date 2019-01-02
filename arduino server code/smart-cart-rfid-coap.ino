@@ -8,6 +8,7 @@
 #include <Wire.h>
 
 // (c) Michael Schoeffler 2018, http://www.mschoeffler.de
+// edited by Alexandros Tsichouridis
 #include <SoftwareSerial.h>
 
 // screen variable for 16 by 2 lcd screen
